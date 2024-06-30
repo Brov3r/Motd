@@ -1,0 +1,6 @@
+# Text displayed to the player when connecting
+# Custom templates:
+# <PLAYER> - player nickname
+# <SPACE> - space
+motdText:
+  - "<LINE> <RGB:1,1,1> Welcome to our server, <SPACE> <RGB:0.4,0.5,0.8> <PLAYER> <RGB:1,1,1> ! <LINE>"

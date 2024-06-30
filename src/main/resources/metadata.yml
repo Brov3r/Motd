@@ -1,0 +1,13 @@
+name: "Motd Plugin"
+id: "motd"
+description: "Motd Plugin"
+author: "Brov3r"
+version: "%PROJECT_VERSION%"
+environment: "server"
+license: "MIT"
+contacts: "https://github.com/brov3r/"
+entrypoints:
+  - "com.brov3r.motd.Main"
+dependencies:
+  pz-core: ">=41.78.16"
+  avrix-loader: ">=1.0.0"
