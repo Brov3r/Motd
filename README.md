@@ -12,7 +12,8 @@
 
 # How to use
 
-1) Download the plugin from the releases page
+1) Install [AvrixLoader](https://github.com/Brov3r/Avrix)
+2) Download the plugin from the releases page
 2) Move to the `plugins` folder
 3) Start the server and shut down
 4) Configure the plugin in the plugin settings folder `plugins/motd`
